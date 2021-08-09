@@ -5,7 +5,7 @@ class Main {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
 
-        int b = (n / 10 ) % 10;
+        int b = (n / 10) % 10;
 
         System.out.println(b);
     }

@@ -1,15 +1,16 @@
 package readability;
-
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String input = scanner.nextLine();
-        char[] ch = input.toCharArray();
+        String[] sentences = input.split("[.?!]");
+        String[] words = input.split(" ");
 
-        if (ch.length <= 99 || input.matches("[ ]+")) {
+        float result = (float) words.length / sentences.length;
+
+        if (result <= 10) {
             System.out.print("EASY");
         } else {
             System.out.print("HARD");
