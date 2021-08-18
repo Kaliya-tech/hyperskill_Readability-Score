@@ -7,7 +7,7 @@ public class Main {
         String input = scanner.nextLine();
         String[] sentences = input.split("[.?!]");
         String[] words = input.split(" ");
-
+""
         float result = (float) words.length / sentences.length;
 
         if (result <= 10) {
