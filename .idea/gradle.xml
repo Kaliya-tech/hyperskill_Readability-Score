@@ -30,6 +30,8 @@
             <option value="$PROJECT_DIR$/Topics/Exception handling/Catching some exceptions" />
             <option value="$PROJECT_DIR$/Topics/Exception handling/String to double conversion" />
             <option value="$PROJECT_DIR$/Topics/Exception handling/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Files/Are siblings" />
+            <option value="$PROJECT_DIR$/Topics/Files/Theory" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Distance" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Evaluate an expression" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Exponential expression" />
@@ -73,6 +75,9 @@
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/The sum of array elements" />
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Theory" />
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Two numbers never occur next to each other" />
+            <option value="$PROJECT_DIR$/Topics/Math library/Heron's formula" />
+            <option value="$PROJECT_DIR$/Topics/Math library/The angle between vectors" />
+            <option value="$PROJECT_DIR$/Topics/Math library/Theory" />
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Cinema" />
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Create cube" />
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Fill the matrix by numbers" />
